@@ -1,0 +1,17 @@
+
+.heading {
+    font-size: 150px;
+}
+
+.section{
+    margin-top: 8rem;
+    /* height: 50%; */
+    padding: 5rem;
+    /* background-color: blue; */
+    text-align: center;
+    background-image: url("../public/community.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
